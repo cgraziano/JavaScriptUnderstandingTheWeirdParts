@@ -1,0 +1,13 @@
+Syntax Parser: (in compiliers and interpretors)
+    A program that reads yoru code and determines what it does and if its grammar is valid.
+    (Someone else wrote a program to translate it for the computer)
+        Extra stuff/things can be done by the compilier or interpretor.
+        
+Lexical Environment:
+    Where something sits physically in the code you write
+        (Lexical means having to do with words or grammar. A lexical environmnet exists in programming languages in which were you write something is imported.)
+        (variable "a" sits lexically within a function and can give you an idea of 
+        where it will exist within memory)
+        
+Execution Context:
+    A wrapper to help manager the code that is running. (There are lots of lexical environments. Which one is currently running is managed by execution contexts. It can contain things beyod what you've written in your code)
