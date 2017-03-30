@@ -1,0 +1,8 @@
+global (based) execution context. 
+  global - thing that is accessible everywhere in your code.
+  
+  creates two things for you
+    Global object
+    "this" variable
+  
+  

@@ -10,4 +10,6 @@ Lexical Environment:
         where it will exist within memory)
         
 Execution Context:
-    A wrapper to help manager the code that is running. (There are lots of lexical environments. Which one is currently running is managed by execution contexts. It can contain things beyod what you've written in your code)
+    A wrapper to help manager the code that is running (wraps code into an execution context). (There are lots of lexical environments. Which one is currently running is managed by execution contexts. It can contain things beyod what you've written in your code)
+    (code runs inside an excecution context and this execution context is a wrapper that the java script engine)
+    Several excecution contexts can exist (global execution context)
