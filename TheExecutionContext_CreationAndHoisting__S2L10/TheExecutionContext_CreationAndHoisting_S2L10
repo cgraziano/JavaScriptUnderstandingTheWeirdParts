@@ -1,0 +1,4 @@
+Javascript engine wraps execution code in an excecution context.
+
+What does the Javascript engine do to create this execution context?
+
